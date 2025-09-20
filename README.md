@@ -57,6 +57,25 @@ The project uses the following dataset:
 
 ---
 
+## Insights
+
+- Crimes against women have **increased over the years**, indicating the need for stronger preventive measures and awareness programs.
+- **Cruelty by Husband or Relatives** and **Assault on Women** are the most frequent crimes nationwide.
+- Uttar Pradesh consistently shows **high numbers across multiple crime categories**, highlighting regional disparities.
+- Certain crimes like **Dowry Deaths** and **Kidnapping/Abduction** show fluctuating trends, suggesting varying levels of enforcement and reporting over the years.
+- Pie charts and bar plots reveal that **a few categories dominate the crime statistics**, emphasizing areas where policy interventions could have the greatest impact.
+
+---
+
+## Future Work
+
+- Extend the analysis to include **post-2014 data** to study more recent trends.
+- Perform **correlation analysis** between crime rates and socio-economic factors such as literacy, poverty, and urbanization.
+- Develop **interactive dashboards** using Plotly, Power BI, or Tableau to allow dynamic exploration of crime trends by year, state, and category.
+- Incorporate **predictive modeling** to forecast potential crime trends based on historical data.
+- Compare **regional trends across different states and union territories** to identify high-risk areas and evaluate the effectiveness of interventions.
+
+
 ## How to Run
 
 1. Clone the repository:  
